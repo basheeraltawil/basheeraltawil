@@ -1,5 +1,5 @@
 <h1 align="center">Basheer Al-Tawil</h1>
-<h3 align="center">PhD Researcher — Robotics, SLAM & Scene Understanding | Founder @ Irama</h3>
+<h3 align="center">PhD Researcher — Robotics, SLAM & Scene Understanding | Founder @ iFARM</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=basheeraltawil&color=blue&style=flat" alt="Profile views" />
