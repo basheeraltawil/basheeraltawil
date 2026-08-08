@@ -18,17 +18,19 @@
 
 ---
 
-### > system.architecture()
+### > whoami
 
-The perception-to-action pipeline I work across, day to day:
+PhD Researcher & Robotics Engineer working on mobile robots that see, understand, and navigate the world. Full portfolio, publications, and tutorials at **[aibomech.github.io](https://aibomech.github.io/)**.
+
+### > research.focus()
 
 ```mermaid
 flowchart LR
-    A[["📷 Sensors\nRGB-D · LiDAR · IMU"]] --> B["🗺️ SLAM\nMapping & Localization"]
-    B --> C["🧩 Scene Understanding\n3D Scene Graphs"]
-    C --> D["🚶 Trajectory Estimation\nHuman & Robot Motion"]
-    D --> E["🧠 Planning\nSMACH State Machines"]
-    E --> F["🦾 Control & Actuation\nROS2 · MoveIt · TIAGo"]
+    A["📷 Perception &\nSensor Fusion"] --> B["🗺️ Dynamic & Semantic SLAM"]
+    B --> C["🚶 Human Trajectory\nEstimation"]
+    C --> D["🤝 Human-Robot\nInteraction"]
+    D --> E["🧭 Social-Aware Nav\nNav2 · ROS2"]
+    E --> F["🦾 VLA-based\nRobot Control"]
 
     style A fill:#1a1a2e,stroke:#2E86DE,color:#fff
     style B fill:#1a1a2e,stroke:#2E86DE,color:#fff
@@ -38,55 +40,11 @@ flowchart LR
     style F fill:#1a1a2e,stroke:#2E86DE,color:#fff
 ```
 
-### > whoami
-
-I'm a robotics engineer and PhD researcher focused on making mobile robots see, understand, and navigate the world. My work spans SLAM, computer vision, and AI systems for robotic perception and navigation. Full portfolio, publications, and tutorials at **[aibomech.github.io](https://aibomech.github.io/)**, video walkthroughs on **[YouTube](https://www.youtube.com/@AIBOMECH)**.
-
-- 🔬 **Researching:** Visual & LiDAR SLAM, sensor fusion mapping, human trajectory estimation, 3D scene graph generation
-- 🤖 **Building with:** ROS/ROS2, Gazebo, TIAGo, mobile robot navigation & manipulation
-- 🎓 PhD Researcher, Otto von Guericke University Magdeburg (OVGU)
-- 📫 Reach me: `basheer.al-tawil@ovgu.de` · `aibomechatronics@gmail.com`
-
-**4+ Publications** &nbsp;·&nbsp; **3+ Projects** &nbsp;·&nbsp; **15+ Tutorials** &nbsp;·&nbsp; **5+ Years Experience**
-
-### > cat tech-stack.txt
-
-| Domain | Stack |
-|---|---|
-| Robotics | ROS / ROS2 · Gazebo · MoveIt · URDF |
-| Perception | OpenCV · Visual SLAM · LiDAR · Sensor Fusion |
-| AI / ML | TensorFlow · PyTorch · Deep Learning · Neural Networks |
-| Languages | Python · C++ |
-
-### > cat publications.bib
-
-| Paper | Venue | Notes |
-|---|---|---|
-| **Multi-Head Attention-Based Framework for Human Action Recognition** | *Sensors*, 2025 | ResNet-18 + Bi-LSTM + multi-head attention, 96.60% accuracy on UCF-101 |
-| **Mobile Robot Navigation with Enhanced 2D Mapping** | *Sensors*, 2025 | SLAM framework fusing RGB-D + 2D LiDAR with adaptive resampling |
-| **A Review of Visual SLAM for Robotics** | *Frontiers in Robotics and AI*, 2024 | Survey of Visual SLAM methods, selection criteria & comparisons |
-
-→ Full list with links on the [portfolio](https://aibomech.github.io/).
-
-### > ls featured-projects/
-
-| Project | What it is |
-|---|---|
-| 🌡️ **Intelligent Temperature Control (Fuzzy Logic)** | Adaptive environmental control system using fuzzy logic for automation |
-| 🔦 **Advanced Laser Belt Marking System** | Industrial automation syncing conveyor belts with fiber laser marking |
-| 🦾 **5DoF Robotic Arm (ROS MoveIt)** | Custom manipulator — SolidWorks design → URDF → MoveIt motion planning |
-
-### > ls tutorials/ | head
-
-Long-form technical writing on robot kinematics, manipulator design, SLAM (visual & sensor-fusion), computer vision (SIFT/ORB/BRISK), robotics math, microcontrollers, and AI agents — **15+ tutorials**, plus video versions on **[YouTube](https://www.youtube.com/@AIBOMECH)**.
-
-### > github --stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basheeraltawil&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basheeraltawil&layout=compact&hide_border=true" height="165" alt="Top languages" />
-</p>
+- Dynamic & Semantic SLAM · Sensor Fusion & Perception
+- Human-Robot Interaction · Human Trajectory Estimation · Human Action Recognition
+- Social-Aware Navigation with Nav2 · ROS2
+- Vision-Language-Action (VLA) models for robot control
 
 ### > echo "let's build"
 
-Open to research collaboration and opportunities in robotics, SLAM, and AI. If a project here is useful to you, a ⭐ is appreciated — and feel free to reach out via [aibomech.github.io](https://aibomech.github.io/), [LinkedIn](https://www.linkedin.com/in/basheeraltawil/), or [YouTube](https://www.youtube.com/@AIBOMECH).
+Open to research collaboration and opportunities in robotics, SLAM, and AI. Reach out via [aibomech.github.io](https://aibomech.github.io/), [LinkedIn](https://www.linkedin.com/in/basheeraltawil/), or [YouTube](https://www.youtube.com/@AIBOMECH).
