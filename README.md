@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://aibomech.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=560&lines=Robotics+Engineer+%26+PhD+Researcher;Mobile+Robotics+%7C+SLAM+%7C+Computer+Vision;Building+robots+that+see%2C+understand%2C+and+navigate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=560&lines=Robotics+Engineer+%26+PhD+Researcher;Mobile+Robotics+%7C+SLAM+%7C+Computer+Vision;Building+robots+that+see%2C+understand%2C+and+navigate" alt="Typing SVG" />
   </a>
 </p>
 
