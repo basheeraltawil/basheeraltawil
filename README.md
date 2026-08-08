@@ -3,14 +3,13 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=basheeraltawil&color=blue&style=flat" alt="Profile views" />
-  <a href="https://github.com/basheeraltawil?tab=followers"><img src="https://img.shields.io/github/followers/basheeraltawil?label=Followers&style=flat" /></a>
-  <img src="https://img.shields.io/badge/Location-Germany-informational" />
 </p>
 
 <p align="center">
-  <a href="https://aibomech.github.io/"><img src="https://img.shields.io/badge/Portfolio-AIBOMECH-1a1a2e?style=flat" /></a>
-  <a href="mailto:basheer.al-tawil@ovgu.de"><img src="https://img.shields.io/badge/OVGU-basheer.al--tawil%40ovgu.de-002b5c" /></a>
-  <a href="mailto:aibomechatronics@gmail.com"><img src="https://img.shields.io/badge/Email-aibomechatronics%40gmail.com-D14836?logo=gmail&logoColor=white" /></a>
+  🌐 <a href="https://aibomech.github.io/">aibomech.github.io</a> &nbsp;|&nbsp;
+  📧 basheer.al-tawil@ovgu.de &nbsp;|&nbsp;
+  📧 aibomechatronics@gmail.com &nbsp;|&nbsp;
+  📍 Germany
 </p>
 
 ---
@@ -24,12 +23,7 @@ I'm a robotics engineer and PhD researcher focused on making mobile robots see, 
 - 🎓 PhD Researcher, Otto von Guericke University Magdeburg (OVGU)
 - 📫 Reach me: `basheer.al-tawil@ovgu.de` · `aibomechatronics@gmail.com`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Publications-4%2B-blue" />
-  <img src="https://img.shields.io/badge/Projects-3%2B-blue" />
-  <img src="https://img.shields.io/badge/Tutorials-15%2B-blue" />
-  <img src="https://img.shields.io/badge/Experience-5%2B%20yrs-blue" />
-</p>
+**4+ Publications** &nbsp;·&nbsp; **3+ Projects** &nbsp;·&nbsp; **15+ Tutorials** &nbsp;·&nbsp; **5+ Years Experience**
 
 ### > cat tech-stack.txt
 
@@ -65,9 +59,11 @@ Long-form technical writing on robot kinematics, manipulator design, SLAM (visua
 ### > github --stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basheeraltawil&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basheeraltawil&layout=compact&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=basheeraltawil&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basheeraltawil&layout=compact&hide_border=true" height="165" alt="Top languages" />
 </p>
+
+<sub>If the stats cards above don't load, GitHub's image proxy sometimes needs a re-render — click into the README on GitHub.com directly, or remove this section if it stays blank.</sub>
 
 ### > echo "let's build"
 
