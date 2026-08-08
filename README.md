@@ -1,9 +1,7 @@
 <h1 align="center">Basheer Al-Tawil</h1>
 
 <p align="center">
-  <a href="https://aibomech.github.io/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=560&lines=Robotics+Engineer+%26+PhD+Researcher;Mobile+Robotics+%7C+SLAM+%7C+Computer+Vision;Building+robots+that+see%2C+understand%2C+and+navigate" alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=560&lines=Robotics+Engineer+and+PhD+Researcher;Mobile+Robotics+SLAM+Computer+Vision;Building+robots+that+see%2C+understand%2C+and+navigate" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,11 +16,27 @@
   📍 Germany
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/basheeraltawil/basheeraltawil/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-</p>
-
 ---
+
+### > system.architecture()
+
+The perception-to-action pipeline I work across, day to day:
+
+```mermaid
+flowchart LR
+    A[["📷 Sensors\nRGB-D · LiDAR · IMU"]] --> B["🗺️ SLAM\nMapping & Localization"]
+    B --> C["🧩 Scene Understanding\n3D Scene Graphs"]
+    C --> D["🚶 Trajectory Estimation\nHuman & Robot Motion"]
+    D --> E["🧠 Planning\nSMACH State Machines"]
+    E --> F["🦾 Control & Actuation\nROS2 · MoveIt · TIAGo"]
+
+    style A fill:#1a1a2e,stroke:#2E86DE,color:#fff
+    style B fill:#1a1a2e,stroke:#2E86DE,color:#fff
+    style C fill:#1a1a2e,stroke:#2E86DE,color:#fff
+    style D fill:#1a1a2e,stroke:#2E86DE,color:#fff
+    style E fill:#1a1a2e,stroke:#2E86DE,color:#fff
+    style F fill:#1a1a2e,stroke:#2E86DE,color:#fff
+```
 
 ### > whoami
 
@@ -72,8 +86,6 @@ Long-form technical writing on robot kinematics, manipulator design, SLAM (visua
   <img src="https://github-readme-stats.vercel.app/api?username=basheeraltawil&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basheeraltawil&layout=compact&hide_border=true" height="165" alt="Top languages" />
 </p>
-
-<sub>If the stats cards above don't load, GitHub's image proxy sometimes needs a re-render — click into the README on GitHub.com directly, or remove this section if it stays blank.</sub>
 
 ### > echo "let's build"
 
