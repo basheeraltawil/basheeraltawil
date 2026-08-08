@@ -1,5 +1,10 @@
 <h1 align="center">Basheer Al-Tawil</h1>
-<h3 align="center">Robotics Engineer & PhD Researcher — Mobile Robotics, SLAM & Computer Vision</h3>
+
+<p align="center">
+  <a href="https://aibomech.github.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=560&lines=Robotics+Engineer+%26+PhD+Researcher;Mobile+Robotics+%7C+SLAM+%7C+Computer+Vision;Building+robots+that+see%2C+understand%2C+and+navigate" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=basheeraltawil&color=blue&style=flat" alt="Profile views" />
@@ -7,16 +12,21 @@
 
 <p align="center">
   🌐 <a href="https://aibomech.github.io/">aibomech.github.io</a> &nbsp;|&nbsp;
+  💼 <a href="https://www.linkedin.com/in/basheeraltawil/">LinkedIn</a> &nbsp;|&nbsp;
+  ▶️ <a href="https://www.youtube.com/@AIBOMECH">YouTube</a> &nbsp;|&nbsp;
   📧 basheer.al-tawil@ovgu.de &nbsp;|&nbsp;
-  📧 aibomechatronics@gmail.com &nbsp;|&nbsp;
   📍 Germany
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basheeraltawil/basheeraltawil/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
 
 ---
 
 ### > whoami
 
-I'm a robotics engineer and PhD researcher focused on making mobile robots see, understand, and navigate the world. My work spans SLAM, computer vision, and AI systems for robotic perception and navigation. Full portfolio, publications, and tutorials at **[aibomech.github.io](https://aibomech.github.io/)**.
+I'm a robotics engineer and PhD researcher focused on making mobile robots see, understand, and navigate the world. My work spans SLAM, computer vision, and AI systems for robotic perception and navigation. Full portfolio, publications, and tutorials at **[aibomech.github.io](https://aibomech.github.io/)**, video walkthroughs on **[YouTube](https://www.youtube.com/@AIBOMECH)**.
 
 - 🔬 **Researching:** Visual & LiDAR SLAM, sensor fusion mapping, human trajectory estimation, 3D scene graph generation
 - 🤖 **Building with:** ROS/ROS2, Gazebo, TIAGo, mobile robot navigation & manipulation
@@ -54,7 +64,7 @@ I'm a robotics engineer and PhD researcher focused on making mobile robots see, 
 
 ### > ls tutorials/ | head
 
-Long-form technical writing on robot kinematics, manipulator design, SLAM (visual & sensor-fusion), computer vision (SIFT/ORB/BRISK), robotics math, microcontrollers, and AI agents — **15+ tutorials** at [aibomech.github.io](https://aibomech.github.io/).
+Long-form technical writing on robot kinematics, manipulator design, SLAM (visual & sensor-fusion), computer vision (SIFT/ORB/BRISK), robotics math, microcontrollers, and AI agents — **15+ tutorials**, plus video versions on **[YouTube](https://www.youtube.com/@AIBOMECH)**.
 
 ### > github --stats
 
@@ -67,4 +77,4 @@ Long-form technical writing on robot kinematics, manipulator design, SLAM (visua
 
 ### > echo "let's build"
 
-Open to research collaboration and opportunities in robotics, SLAM, and AI. If a project here is useful to you, a ⭐ is appreciated — and feel free to reach out via [aibomech.github.io](https://aibomech.github.io/) or email.
+Open to research collaboration and opportunities in robotics, SLAM, and AI. If a project here is useful to you, a ⭐ is appreciated — and feel free to reach out via [aibomech.github.io](https://aibomech.github.io/), [LinkedIn](https://www.linkedin.com/in/basheeraltawil/), or [YouTube](https://www.youtube.com/@AIBOMECH).
