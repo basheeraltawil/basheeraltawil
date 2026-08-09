@@ -20,7 +20,7 @@
 
 ###  whoami
 
-PhD Researcher at **Otto von Guericke University Magdeburg (OVGU)** and robotics engineer working on mobile robots that see, understand, and navigate the world alongside people. My research sits at the intersection of **SLAM, perception, and human-aware robot behavior** — building the pipeline that takes raw sensor data all the way to a robot that can safely and naturally operate around humans. Much of this work runs on the **TIAGo** platform, using **ROS2**, **Nav2**, and **SMACH** state machines for task control. Full portfolio, publications, and tutorials at **[aibomech.github.io](https://aibomech.github.io/)**.
+PhD Researcher at **Otto von Guericke University Magdeburg (OVGU)** and robotics engineer working on mobile robots that see, understand, and navigate the world alongside people. My research sits at the intersection of **SLAM, perception, and human-aware robot behavior** — building the pipeline that takes raw sensor data all the way to a robot that can safely and naturally operate around humans. Much of this work runs on the **TIAGo** platform, using **ROS2**, **Nav2**, and state machines for task control. Full portfolio, publications, and tutorials at **[aibomech.github.io](https://aibomech.github.io/)**.
 
 ### research.focus()
 
