@@ -22,7 +22,7 @@
 
 PhD Researcher at **Otto von Guericke University Magdeburg (OVGU)** and robotics engineer working on mobile robots that see, understand, and navigate the world alongside people. My research sits at the intersection of **SLAM, perception, and human-aware robot behavior** — building the pipeline that takes raw sensor data all the way to a robot that can safely and naturally operate around humans. Much of this work runs on the **TIAGo** platform, using **ROS2**, **Nav2**, and state machines for task control. Full portfolio, publications, and tutorials at **[aibomech.github.io](https://aibomech.github.io/)**.
 
-### research.focus()
+### research focus
 
 ```mermaid
 flowchart LR
@@ -47,7 +47,7 @@ flowchart LR
 - 🧭 **Social-Aware Navigation** — Nav2 / ROS2-based path planning that respects social norms, not just obstacle avoidance
 - 🦾 **VLA for Robot Control** — vision-language-action models for higher-level, instruction-driven robot behavior (TIAGo)
 
-### > stack
+###  stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white" />
@@ -60,13 +60,13 @@ flowchart LR
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
-### > stats
+###  stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=basheeraltawil&show_icons=true&theme=dark&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basheeraltawil&layout=compact&theme=dark&hide_border=true" height="165" />
 </p>
 
-### > echo "let's build"
+###  echo "let's build"
 
 Open to research collaboration and opportunities in robotics, SLAM, and human-aware AI systems. Reach out via [aibomech.github.io](https://aibomech.github.io/), [LinkedIn](https://www.linkedin.com/in/basheeraltawil/), or [YouTube](https://www.youtube.com/@AIBOMECH).
