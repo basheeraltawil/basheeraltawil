@@ -31,7 +31,7 @@ I am a **robotics engineer and PhD researcher (Doktorand)** in the **Neuro-Infor
 
 My work spans the full autonomy stack — **multi-sensor perception and fusion** (RGB-D, 2D/3D LiDAR, IMU), **visual, dynamic, and semantic SLAM**, **human action recognition** and **engagement estimation**, through to **human-aware navigation** and **LLM/VLA-driven robot task control**. Systems are validated in simulation and on real hardware, primarily the **PAL Robotics TIAGo** platform, using **ROS / ROS 2** and **Nav2**.
 
-Published in *Sensors*, *Frontiers in Robotics and AI*, *Robotics*, and *Complex & Intelligent Systems*. Research supported by the **German Federal Ministry of Education and Research (BMBF)** and the **German Research Foundation (DFG)**.
+
 
 📍 Magdeburg, Germany · 🌐 **[aibomech.github.io](https://aibomech.github.io/)** — projects, publications, and tutorials
 
@@ -65,16 +65,6 @@ flowchart LR
 | 🦾 **LLM / VLA for Robot Control** | Integrating large language and vision-language-action models into everyday robot automation and task planning |
 | 🦿 **Robot Manipulators & Kinematics** | Kinematic/kinetic analysis, trajectory planning, and grasping for robotic arms |
 
-
----
-
-## Featured Repositories
-
-| Repository | Description | Stack |
-| :--- | :--- | :--- |
-| **[HAR-ResNet-BiLSTM-Attention](https://github.com/basheeraltawil/HAR-ResNet-BiLSTM-Attention)** | Official implementation of the *Sensors* 2025 human action recognition framework — ResNet-18 spatial features, Bi-LSTM temporal modeling, multi-head attention, optical-flow frame selection | PyTorch · Python · OpenCV |
-| **[Add your SLAM repo]** | Multi-sensor fusion SLAM with enhanced Gmapping (EGM), evaluated against RTAB-Map on TIAGo | ROS · C++ · Python |
-| **[Add your navigation repo]** | ROS 2 / Nav2 navigation stack for human-aware mobile robot operation | ROS 2 · Nav2 · Python |
 
 ---
 
