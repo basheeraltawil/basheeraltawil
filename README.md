@@ -65,36 +65,6 @@ flowchart LR
 | 🦾 **LLM / VLA for Robot Control** | Integrating large language and vision-language-action models into everyday robot automation and task planning |
 | 🦿 **Robot Manipulators & Kinematics** | Kinematic/kinetic analysis, trajectory planning, and grasping for robotic arms |
 
----
-
-## Selected Publications
-
-**2026**
-
-- **SAR-SLAM: Semantic-Aware Recognition for Dynamic SLAM in Robotic Applications** — *Robotics* (MDPI), 2026<br>
-  <sub>B. Al-Tawil, M. Jung, T. Hempel, A. Al-Hamadi — an RGB-D SLAM framework that robustly handles dynamic scenes containing moving people and objects.</sub>
-- **Deep Learning-Based Gaze Estimation: A Review** — *Robotics* (MDPI), 2026<br>
-  <sub>A. A. Abdelrahman, B. Al-Tawil, A. Al-Hamadi</sub>
-
-**2025**
-
-- **Mobile Robot Navigation with Enhanced 2D Mapping and Multi-Sensor Fusion** — *Sensors*, 25(8), 2408<br>
-  <sub>B. Al-Tawil, A. Candemir, M. Jung, A. Al-Hamadi · [doi:10.3390/s25082408](https://doi.org/10.3390/s25082408)</sub>
-- **Multi-Head Attention-Based Framework with Residual Network for Human Action Recognition** — *Sensors*, 25(9), 2930<br>
-  <sub>B. Al-Tawil, M. Jung, T. Hempel, A. Al-Hamadi · [doi:10.3390/s25092930](https://doi.org/10.3390/s25092930) · [Code](https://github.com/basheeraltawil/HAR-ResNet-BiLSTM-Attention)</sub>
-- **Eye Contact Based Engagement Prediction for Efficient Human–Robot Interaction** — *Complex & Intelligent Systems*<br>
-  <sub>M. Jung, A. Abdelrahman, T. Hempel, B. Al-Tawil, Q. Yang, S. Wachsmuth, A. Al-Hamadi · [doi:10.1007/s40747-025-01902-z](https://doi.org/10.1007/s40747-025-01902-z)</sub>
-- **Toward Truly Intelligent Autonomous Systems: A Taxonomy of LLM Integration for Everyday Automation** — *RCVIS 2025*<br>
-  <sub>M. Jung, T. Hempel, B. Al-Tawil, Q. Yang, S. Wachsmuth, A. Al-Hamadi · [doi:10.1007/978-3-032-00986-9_6](https://doi.org/10.1007/978-3-032-00986-9_6)</sub>
-
-**2024 & earlier**
-
-- **A Review of Visual SLAM for Robotics: Evolution, Properties, and Future Applications** — *Frontiers in Robotics and AI*, 11<br>
-  <sub>B. Al-Tawil, T. Hempel, A. Abdelrahman, A. Al-Hamadi · [doi:10.3389/frobt.2024.1347985](https://doi.org/10.3389/frobt.2024.1347985)</sub>
-- **Design and Analysis of a Four-DOF Robotic Arm with Two Grippers for Agricultural Operations** — *IJAMEC*<br>
-  <sub>B. Altawil, F. C. Can · [doi:10.18100/ijamec.1217072](https://doi.org/10.18100/ijamec.1217072)</sub>
-
-📚 Full list: **[Google Scholar](https://scholar.google.com/citations?user=-06CVX4AAAAJ&hl=en)** · **[ORCID](https://orcid.org/0000-0002-5716-7587)** · **[ResearchGate](https://www.researchgate.net/profile/Basheer-Al-Tawil)** · **[OVGU/NIT](https://www.nit.ovgu.de/nit/en/Staff/Basheer+Al_Tawil.html)**
 
 ---
 
