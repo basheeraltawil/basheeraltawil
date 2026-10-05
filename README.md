@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://https://basheeraltawil.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-https://basheeraltawil.pages.dev-2E86DE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Basheer Al-Tawil robotics portfolio website" /></a>
+  <a href="https://basheeraltawil.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-https://basheeraltawil.pages.dev-2E86DE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Basheer Al-Tawil robotics portfolio website" /></a>
   <a href="https://scholar.google.com/citations?user=-06CVX4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Basheer Al-Tawil Google Scholar publications" /></a>
   <a href="https://www.linkedin.com/in/basheeraltawil/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Basheer Al-Tawil LinkedIn profile" /></a>
   <a href="https://www.youtube.com/@AIBOMECH"><img src="https://img.shields.io/badge/YouTube-AIBOMECH-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="AIBOMECH YouTube channel - ROS2 and robotics tutorials" /></a>
@@ -33,7 +33,7 @@ My work spans the full autonomy stack — **multi-sensor perception and fusion**
 
 
 
-📍 Magdeburg, Germany · 🌐 **[https://basheeraltawil.pages.dev](https://https://basheeraltawil.pages.dev/)** — projects, publications, and tutorials
+📍 Magdeburg, Germany · 🌐 **[https://basheeraltawil.pages.dev](https://basheeraltawil.pages.dev/)** — projects, publications, and tutorials
 
 ---
 
