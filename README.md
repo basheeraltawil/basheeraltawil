@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://basheeraltawil.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-https://basheeraltawil.pages.dev-2E86DE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Basheer Al-Tawil robotics portfolio website" /></a>
+  <a href="https://basheeraltawil.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-basheeraltawil.pages.dev-2E86DE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Basheer Al-Tawil robotics portfolio website" /></a>
   <a href="https://scholar.google.com/citations?user=-06CVX4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Basheer Al-Tawil Google Scholar publications" /></a>
   <a href="https://www.linkedin.com/in/basheeraltawil/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Basheer Al-Tawil LinkedIn profile" /></a>
   <a href="https://www.youtube.com/@AIBOMECH"><img src="https://img.shields.io/badge/YouTube-AIBOMECH-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="AIBOMECH YouTube channel - ROS2 and robotics tutorials" /></a>
@@ -31,9 +31,33 @@ I am a **robotics engineer and PhD researcher (Doktorand)** in the **Neuro-Infor
 
 My work spans the full autonomy stack — **multi-sensor perception and fusion** (RGB-D, 2D/3D LiDAR, IMU), **visual, dynamic, and semantic SLAM**, **human action recognition** and **engagement estimation**, through to **human-aware navigation** and **LLM/VLA-driven robot task control**. Systems are validated in simulation and on real hardware, primarily the **PAL Robotics TIAGo** platform, using **ROS / ROS 2** and **Nav2**.
 
+📍 Magdeburg, Germany · 🌐 **[basheeraltawil.pages.dev](https://basheeraltawil.pages.dev/)** — projects, publications, and tutorials
 
+---
 
-📍 Magdeburg, Germany · 🌐 **[https://basheeraltawil.pages.dev](https://basheeraltawil.pages.dev/)** — projects, publications, and tutorials
+## Featured Projects
+
+### Research & AI
+
+| Project | Description |
+| :--- | :--- |
+| 🧠 **[HAR-ResNet-BiLSTM-Attention](https://github.com/basheeraltawil/HAR-ResNet-BiLSTM-Attention)** | Official code for *"Multi-Head Attention-Based Framework with Residual Network for Human Action Recognition"* (*Sensors*, 2025). ResNet-18 + Bi-LSTM + multi-head attention with optical-flow frame selection; **96.6% accuracy** on UCF101. |
+| 🚶 **[NIT-TrajMamba](https://github.com/basheeraltawil/NIT-TrajMamba)** | ROS 2 package for real-time human trajectory prediction from RGB-D (ICCMA 2026). A lightweight Bi-Mamba model (~262K parameters) predicts the next 3 seconds of motion and runs on-board an NVIDIA Jetson Orin. |
+
+### Robotics & Automation
+
+| Project | Description |
+| :--- | :--- |
+| 🦾 **[reconfigurable-scara-robot-cell-ros2](https://github.com/basheeraltawil/reconfigurable-scara-robot-cell-ros2)** | Reconfigurable SCARA robot cell controlled with ROS 2. |
+| 🌾 **[agrobot-ros2-agricultural-robot-arm](https://github.com/basheeraltawil/agrobot-ros2-agricultural-robot-arm)** | ROS 2 robotic arm for agricultural tasks. |
+| 🔦 **[ros2-laser-marking-machine](https://github.com/basheeraltawil/ros2-laser-marking-machine)** | ROS 2 control system for a laser marking machine. |
+| 🎛️ **[parallel-manipulator-imu-control](https://github.com/basheeraltawil/parallel-manipulator-imu-control)** | IMU-based control of a parallel manipulator. |
+
+### Control Systems
+
+| Project | Description |
+| :--- | :--- |
+| 🌱 **[fuzzy-greenhouse-climate-control](https://github.com/basheeraltawil/fuzzy-greenhouse-climate-control)** | Fuzzy-logic climate control for a greenhouse. |
 
 ---
 
@@ -59,12 +83,11 @@ flowchart LR
 | :--- | :--- |
 | 📷 **Perception & Multi-Sensor Fusion** | Late-fusion of RGB-D point clouds with 2D LiDAR for robust mapping; noise filtering and degeneracy handling |
 | 🗺️ **Visual, Dynamic & Semantic SLAM** | RGB-D SLAM that stays accurate when people and objects move through the scene, instead of assuming a static world |
-| 🚶 **Human Action Recognition** | ResNet + Bi-LSTM with multi-head attention and optical-flow frame selection for real-time HAR in assistive robotics |
+| 🚶 **Human Action & Trajectory Analysis** | ResNet + Bi-LSTM with multi-head attention for real-time HAR; Bi-Mamba trajectory prediction for assistive and mobile robots |
 | 🤝 **Human-Robot Interaction (HRI)** | Eye-contact and engagement prediction for efficient, legible interaction between robots and people |
 | 🧭 **Navigation & Motion Planning** | ROS / ROS 2 and Nav2 navigation stacks, enhanced Gmapping (EGM), adaptive resampling, real-world TIAGo deployment |
 | 🦾 **LLM / VLA for Robot Control** | Integrating large language and vision-language-action models into everyday robot automation and task planning |
 | 🦿 **Robot Manipulators & Kinematics** | Kinematic/kinetic analysis, trajectory planning, and grasping for robotic arms |
-
 
 ---
 
@@ -78,7 +101,7 @@ I publish practical robotics tutorials on **[YouTube @AIBOMECH](https://www.yout
 
 **Robotics** ROS 2 · ROS 1 · Nav2 · MoveIt · Gazebo · RViz · TF2 · Behavior Trees · SMACH · Gmapping · RTAB-Map · PAL TIAGo · URDF/Xacro
 **Perception & CV** OpenCV · Open3D · PCL · RGB-D processing · 2D/3D LiDAR · point cloud filtering · optical flow · semantic segmentation · object detection · pose & gaze estimation
-**AI / ML** PyTorch · TensorFlow · ResNet · Bi-LSTM · multi-head attention · Transformers · LLM & VLA integration · CUDA
+**AI / ML** PyTorch · TensorFlow · ResNet · Bi-LSTM · Mamba · multi-head attention · Transformers · LLM & VLA integration · CUDA
 **Languages** Python · C++ · MATLAB · Bash
 **Tooling** Docker · Git · Linux (Ubuntu) · CMake · colcon · NumPy · Pandas
 
@@ -99,7 +122,6 @@ I publish practical robotics tutorials on **[YouTube @AIBOMECH](https://www.yout
 
 ## GitHub Activity
 
-
 <!-- Contribution snake: generated by your own snake.yml workflow and served from your repo, so it always loads. -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/basheeraltawil/basheeraltawil/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution graph snake animation" />
@@ -112,7 +134,7 @@ I publish practical robotics tutorials on **[YouTube @AIBOMECH](https://www.yout
 Open to **research collaborations**, **industry R&D roles**, **postdoc partnerships**, and **invited talks or tutorials** in mobile robotics, SLAM, perception, human-robot interaction, and embodied AI.
 
 <p align="center">
-  <a href="https://https://basheeraltawil.pages.dev/"><b>Portfolio</b></a> ·
+  <a href="https://basheeraltawil.pages.dev/"><b>Portfolio</b></a> ·
   <a href="https://scholar.google.com/citations?user=-06CVX4AAAAJ&hl=en"><b>Scholar</b></a> ·
   <a href="https://www.linkedin.com/in/basheeraltawil/"><b>LinkedIn</b></a> ·
   <a href="https://www.youtube.com/@AIBOMECH"><b>YouTube</b></a> ·
@@ -123,6 +145,6 @@ Open to **research collaborations**, **industry R&D roles**, **postdoc partnersh
 
 <p align="center">
   <sub>
-    <b>Research areas:</b> Robotics Engineer · PhD Researcher · Mobile Robotics · Autonomous Navigation · SLAM · Visual SLAM · Semantic SLAM · Dynamic SLAM · RGB-D SLAM · Gmapping · RTAB-Map · ROS · ROS 2 · Nav2 · MoveIt · Gazebo · Computer Vision · Multi-Sensor Fusion · LiDAR · Point Cloud Processing · Deep Learning · PyTorch · Human Action Recognition · Gaze Estimation · Engagement Prediction · Human-Robot Interaction (HRI) · Social Navigation · Motion Planning · Robot Manipulators · Vision-Language-Action (VLA) · Vision-Language Models (VLM) · Large Language Models (LLM) · Embodied AI · TIAGo · PAL Robotics · Neuro-Information Technology · OVGU · Magdeburg · Germany
+    <b>Research areas:</b> Robotics Engineer · PhD Researcher · Mobile Robotics · Autonomous Navigation · SLAM · Visual SLAM · Semantic SLAM · Dynamic SLAM · RGB-D SLAM · Gmapping · RTAB-Map · ROS · ROS 2 · Nav2 · MoveIt · Gazebo · Computer Vision · Multi-Sensor Fusion · LiDAR · Point Cloud Processing · Deep Learning · PyTorch · Human Action Recognition · Human Trajectory Prediction · Mamba · Gaze Estimation · Engagement Prediction · Human-Robot Interaction (HRI) · Social Navigation · Motion Planning · Robot Manipulators · Vision-Language-Action (VLA) · Vision-Language Models (VLM) · Large Language Models (LLM) · Embodied AI · TIAGo · PAL Robotics · Neuro-Information Technology · OVGU · Magdeburg · Germany
   </sub>
 </p>
