@@ -31,7 +31,7 @@ I am a **robotics engineer and PhD researcher (Doktorand)** in the **Neuro-Infor
 
 My work spans the full autonomy stack — **multi-sensor perception and fusion** (RGB-D, 2D/3D LiDAR, IMU), **visual, dynamic, and semantic SLAM**, **human action recognition** and **engagement estimation**, through to **human-aware navigation** and **LLM/VLA-driven robot task control**. Systems are validated in simulation and on real hardware, primarily the **PAL Robotics TIAGo** platform, using **ROS / ROS 2** and **Nav2**.
 
-📍 Magdeburg, Germany · 🌐 **[basheeraltawil.pages.dev](https://aibomech.com)** — projects, publications, and tutorials
+📍 Magdeburg, Germany · 🌐 **[aibomech.com](https://aibomech.com)** — projects, publications, and tutorials
 
 ---
 
